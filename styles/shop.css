@@ -1,0 +1,24 @@
+.pageHeader {
+    color: aliceblue;
+    background-color: maroon;
+    font-size:50px;
+    width:auto;
+    margin: 25px 100px 50px;
+}
+body {
+    background-image: url("https://images.squarespace-cdn.com/content/56a2785c69a91af45e06a188/1579106120240-JTIEFL2H1H3M2BN3ZY6P/Restaurant-Cafe-Features2020.png?format=1500w&content-type=image%2Fpng");
+    background-size:700px;
+}
+.shop {
+    background-color: aliceblue;
+    color: black;
+    border-radius: 8px;
+    margin:50px 75px 100px;
+}
+h1 {
+    color: aliceblue;
+    background-color: maroon;
+    padding:4px;
+    border-radius: 8px;
+}
+
